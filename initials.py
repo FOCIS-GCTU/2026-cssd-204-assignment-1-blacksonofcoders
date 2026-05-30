@@ -1,7 +1,3 @@
-
-def main():
-  pass #code goes here
-
 # File: CTT.py
 # Description: Print out my initials.
 # Assignment Number: 1
@@ -14,6 +10,7 @@ def main():
 #
 # On my honor,Cornelius Tetteh Tetteh, this programming assignment is my own work
 # and I have not provided this code to any other student.
+
 
 def main():
     # Prints my initials CTT in large stylized letters.
